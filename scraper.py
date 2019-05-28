@@ -141,7 +141,7 @@ for x in range(len(dataset['Water_Area(sq mi)'])):
     else:
         area = area.split("\xa0")[0]
         area = re.sub(r'[^0-9.]+', '', area)
-        area = round(float(area) / 2.58999, 2)
+        area = round(float(area) / 2.5899, 2)
     dataset.iloc[x]['Water_Area(sq mi)'] = area
 
 # Converting population columns (3,4) to integers
