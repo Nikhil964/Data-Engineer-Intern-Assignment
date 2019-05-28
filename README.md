@@ -1,7 +1,7 @@
 # Data-Engineer-Intern-Assignment
 
 ## Prerequisites
-You will need a Python toolchain to run this
+You will need a Python toolchain to run this. (Libraries required: pandas, bs4, re, requests, urllib)
 
 ## About the repo
 * It includes a 'scraper.py' and 'finalDataset.csv' files
