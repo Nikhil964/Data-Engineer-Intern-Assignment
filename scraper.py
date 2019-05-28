@@ -147,13 +147,13 @@ for x in range(len(dataset['Water_Area(sq mi)'])):
 # Converting population columns (3,4) to integers
 dataset['2018_Population_Estimate'] = dataset['2018_Population_Estimate'].str.replace(',', '')
 for x in range(len(dataset['2018_Population_Estimate'])):
-    area = int(dataset.iloc[x]['2018_Population_Estimate'])
-    dataset.iloc[x]['2018_Population_Estimate'] = area
+    population = int(dataset.iloc[x]['2018_Population_Estimate'])
+    dataset.iloc[x]['2018_Population_Estimate'] = population
 
 dataset['2010_Population_Census'] = dataset['2010_Population_Census'].str.replace(',', '')
 for x in range(len(dataset['2010_Population_Census'])):
-    area = int(dataset.iloc[x]['2010_Population_Census'])
-    dataset.iloc[x]['2010_Population_Census'] = area
+    population = int(dataset.iloc[x]['2010_Population_Census'])
+    dataset.iloc[x]['2010_Population_Census'] = population
 
 # Storing transformed data to finalDataset.csv file
 dataset.to_csv('finalDataset.csv',index=False)
