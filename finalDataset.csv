@@ -1,0 +1,306 @@
+City,State,2018_Population_Estimate,2010_Population_Census,Percentage_of_Population_Change,Land_Area(sq mi),Water_Area(sq mi),Elevation(ft),City_WebSite
+New York City, New York,8398748,8175133,+2.74,302.64,165.84,33.0,https://www.nyc.gov/
+Los Angeles, California,3990456,3792621,+5.22,468.74,34.02,305.0,https://www.lacity.org/
+Chicago, Illinois,2705994,2695598,+0.39,227.34,6.8,594.0,http://www.cityofchicago.org
+Phoenix, Arizona,1660272,1445632,+14.85,517.64,1.25,1086.0,http://www.phoenix.gov
+Philadelphia, Pennsylvania,1584138,1526006,+3.81,134.28,8.42,39.0,http://www.phila.gov/
+San Antonio, Texas,1532233,1327407,+15.43,460.93,4.5,650.0,http://www.sanantonio.gov/
+San Diego, California,1425976,1307402,+9.07,325.19,47.2,62.0,http://www.sandiego.gov/
+Dallas, Texas,1345047,1197816,+12.29,340.5,45.3,430.0,http://www.dallascityhall.com/
+San Jose, California,1030119,945942,+8.90,177.51,3.01,82.0,http://www.sanjoseca.gov/
+Austin, Texas,964254,790390,+22.00,297.9,7.2,289.0,http://www.austintexas.gov
+Jacksonville, Florida,903889,821784,+9.99,747.45,127.19,16.0,http://www.coj.net
+Fort Worth, Texas,895008,741206,+20.75,342.2,7.0,653.0,http://www.fortworthtexas.gov/
+Columbus, Ohio,892533,787033,+13.40,217.17,5.94,902.0,http://www.columbus.gov/
+San Francisco, California,883305,805235,+9.70,46.89,185.0,52.0,http://sf.gov/
+Indianapolis, Indiana,867125,820445,+5.69,361.51,6.52,715.0,http://www.indy.gov
+Denver, Colorado,716492,600158,+19.38,153.33,1.63,5130.0,http://www.denvergov.org/
+Boston, Massachusetts,694583,617594,+12.47,48.42,41.21,141.0,https://www.boston.gov/
+El Paso, Texas,682669,649121,+5.17,255.3,1.0,3740.0,http://www.elpasotexas.gov
+Detroit, Michigan,672662,713777,−5.76,138.72,4.17,656.0,http://www.detroitmi.gov/
+Nashville, Tennessee,669053,601222,+11.28,504.03,21.91,597.0,http://www.nashville.gov/
+Portland, Oregon,653115,583776,+11.88,133.0,12.0,50.0,http://www.PortlandOregon.gov/
+Memphis, Tennessee,650618,646889,+0.58,315.1,9.0,337.0,http://www.memphistn.gov
+Oklahoma City, Oklahoma,649021,579999,+11.90,601.11,19.23,1201.0,http://www.okc.gov/
+Las Vegas, Nevada,644644,583756,+10.43,135.8,0.05,2001.0,http://lasvegasnevada.gov
+Louisville, Kentucky,620118,597337,+3.81,380.46,17.23,466.0,http://louisvilleky.gov/
+Baltimore, Maryland,602495,620961,−2.97,80.95,11.1,0.0,http://www.baltimorecity.gov/
+Milwaukee, Wisconsin,592025,594833,−0.47,96.19,0.63,617.0,http://city.milwaukee.gov
+Albuquerque, New Mexico,560218,545852,+2.63,187.7,1.8,5312.0,http://www.cabq.gov/
+Tucson, Arizona,545975,520116,+4.97,236.19,0.32,2389.0,http://www.tucsonaz.gov
+Fresno, California,530093,494665,+7.16,114.42,0.28,308.0,http://www.fresno.gov
+Mesa, Arizona,508958,439041,+15.92,137.88,0.75,1240.0,http://www.mesaaz.gov
+Sacramento, California,508529,466488,+9.01,97.92,2.18,30.0,http://cityofsacramento.org
+Atlanta, Georgia,498044,420003,+18.58,133.2,0.8,738.0,http://atlantaga.gov
+Kansas City, Missouri,491918,459787,+6.99,314.95,4.08,910.0,http://www.kcmo.gov/
+Colorado Springs, Colorado,472688,416427,+13.51,194.74,0.37,6035.0,http://coloradosprings.gov
+Miami, Florida,470914,399457,+17.89,35.99,20.08,6.0,http://miamigov.com
+Raleigh, North Carolina,469298,403892,+16.19,142.8,2.0,315.0,http://raleighnc.gov
+Omaha, Nebraska,468262,408958,+14.50,138.21,3.6,1090.0,http://www.cityofomaha.org
+Long Beach, California,467354,462257,+1.10,50.32,1.16,52.0,http://www.longbeach.gov
+Virginia Beach, Virginia,450189,437994,+2.78,244.72,252.78,10.0,http://www.vbgov.com/
+Oakland, California,429082,390724,+9.82,55.89,21.97,43.0,https://www.oaklandca.gov
+Minneapolis, Minnesota,425403,382578,+11.19,54.0,3.49,830.0,http://www.minneapolismn.gov
+Tulsa, Oklahoma,400669,391906,+2.24,192.7,4.2,722.0,http://www.cityoftulsa.org/
+Arlington, Texas,398112,365438,+8.94,96.5,3.2,604.0,http://www.ArlingtonTX.gov
+Tampa, Florida,392890,335709,+17.03,113.42,61.8,48.0,http://www.tampagov.net
+New Orleans, Louisiana,391006,343829,+13.72,169.42,180.43,6.5,http://www.nola.gov
+Wichita, Kansas,389255,382368,+1.80,159.29,4.3,1302.0,http://www.wichita.gov/
+Cleveland, Ohio,383793,396815,−3.28,77.7,4.77,653.0,http://www.cleveland-oh.gov
+Bakersfield, California,383579,347483,+10.39,149.73,1.47,404.0,http://www.bakersfieldcity.us/
+Aurora, Colorado,374114,325078,+15.08,153.52,0.67,5403.0,http://auroragov.org
+Anaheim, California,352005,336265,+4.68,50.32,0.6,157.0,http://www.anaheim.net
+Honolulu, Hawaii,347397,337256,+3.01,60.5,7.9,19.0,http://www.honolulu.gov/
+Santa Ana, California,332725,324528,+2.53,27.15,0.25,115.0,http://www.santa-ana.org
+Riverside, California,330063,303871,+8.62,81.23,0.31,827.0,http://riversideca.gov
+Corpus Christi, Texas,326554,305215,+6.99,174.6,329.0,7.0,http://www.cctexas.com
+Lexington, Kentucky,323780,295803,+9.46,284.5,1.0,978.0,http://www.lexingtonky.gov
+Stockton, California,311178,291707,+6.67,61.67,3.08,13.0,http://www.stocktongov.com
+Henderson, Nevada,310390,257729,+20.43,107.7,0.0,1864.0,http://www.cityofhenderson.com
+Saint Paul, Minnesota,307695,285068,+7.94,51.97,4.2,795.0,http://www.stpaul.gov/
+St. Louis, Missouri,302838,319294,−5.15,61.9,4.1,466.0,http://stlouis-mo.gov
+Cincinnati, Ohio,302605,296943,+1.91,77.94,1.6,482.31,http://cincinnati-oh.gov
+Greensboro, North Carolina,294722,269666,+9.29,126.5,5.3,897.0,http://www.greensboro-nc.gov
+Anchorage, Alaska,291538,291826,−0.10,1706.61,256.0,102.0,http://www.muni.org/
+Plano, Texas,288061,259841,+10.86,71.6,0.1,666.0,https://www.plano.gov
+Lincoln, Nebraska,287401,258379,+11.23,92.91,1.35,1176.0,http://www.lincoln.ne.gov/
+Orlando, Florida,285713,238300,+19.90,105.22,8.53,82.03,http://www.cityoforlando.net
+Irvine, California,282572,212375,+33.05,65.58,0.34,56.0,http://cityofirvine.org
+Newark, New Jersey,282090,277140,+1.79,24.19,1.92,13.0,http://newarknj.gov/
+Toledo, Ohio,274975,287208,−4.26,80.69,3.43,614.0,http://www.toledo.oh.gov
+Durham, North Carolina,274291,228330,+20.13,107.4,0.9,404.0,http://durhamnc.gov/
+Chula Vista, California,271651,243916,+11.37,49.63,2.46,66.0,http://www.chulavistaca.gov
+Fort Wayne, Indiana,267633,253691,+5.50,110.63,0.21,810.0,http://www.cityoffortwayne.org
+Jersey City, New Jersey,265549,247597,+7.25,14.79,6.29,20.0,http://www.jerseycitynj.gov
+St. Petersburg, Florida,265098,244769,+8.31,61.75,75.89,44.0,https://www.stpete.org/
+Laredo, Texas,261639,236091,+10.82,101.1,1.5,438.0,http://www.laredotexas.gov/
+Madison, Wisconsin,258054,233209,+10.65,78.95,21.96,873.0,http://cityofmadison.com
+Chandler, Arizona,257165,236123,+8.91,64.94,0.1,1214.0,http://www.chandleraz.gov
+Buffalo, New York,256304,261310,−1.92,40.6,11.9,600.0,http://www.city-buffalo.com/
+Lubbock, Texas,255885,229573,+11.46,122.41,1.14,3202.0,http://www.ci.lubbock.tx.us
+Scottsdale, Arizona,255310,217385,+17.45,183.94,0.47,1257.0,http://www.scottsdaleaz.gov
+Reno, Nevada,250998,225221,+11.45,103.0,2.9,4505.6,http://reno.gov
+Glendale, Arizona,250702,226721,+10.58,59.36,0.39,1152.0,http://www.glendaleaz.com
+Gilbert, Arizona,248279,208453,+19.11,68.0,0.2,1237.0,http://www.gilbertaz.gov
+Winston–Salem, North Carolina,246328,229617,+7.28,132.4,1.2,970.0,http://www.cityofws.org
+North Las Vegas, Nevada,245949,216961,+13.36,101.4,0.04,2205.0,http://www.CityOfNorthLasVegas.com
+Norfolk, Virginia,244076,242803,+0.52,53.28,43.13,7.0,http://www.norfolk.gov/
+Garland, Texas,242507,226876,+6.89,57.1,0.0,551.0,http://www.garlandtx.gov
+Irving, Texas,242242,216290,+12.00,67.9,0.4,482.0,http://www.cityofirving.org/
+Hialeah, Florida,238942,224669,+6.35,21.48,1.34,7.0,http://www.hialeahfl.gov
+Fremont, California,237807,214089,+11.08,77.47,10.15,56.0,http://www.fremont.gov
+Boise, Idaho,228790,205671,+11.24,82.09,0.71,2730.0,http://www.cityofboise.org
+Richmond, Virginia,228783,204214,+12.03,59.91,2.66,166.45,http://www.ci.richmond.va.us/
+Baton Rouge, Louisiana,221599,229493,−3.44,85.93,2.19,56.0,http://www.brgov.com
+Spokane, Washington,219190,208916,+4.92,68.77,0.74,1843.0,http://www.spokanecity.org
+Des Moines, Iowa,216853,203433,+6.60,88.92,1.73,955.0,http://www.dmgov.org/
+Tacoma, Washington,216279,198397,+9.01,49.72,12.7,243.0,http://www.cityoftacoma.org/
+San Bernardino, California,215941,209924,+2.87,61.52,0.43,1053.0,http://sbcity.org
+Modesto, California,215030,201165,+6.89,42.97,1.84,89.0,http://www.modestogov.com
+Fontana, California,213739,196069,+9.01,43.02,0.0,1237.0,http://fontana.org
+Santa Clarita, California,210089,176320,+19.15,52.76,0.05,1207.0,http://www.santa-clarita.com
+Birmingham, Alabama,209880,212237,−1.11,146.02,2.55,644.0,http://www.birminghamal.gov/
+Oxnard, California,209877,197899,+6.05,26.9,12.31,52.0,https://www.oxnard.org
+Fayetteville, North Carolina,209468,200564,+4.44,145.9,1.9,263.0,http://www.ci.fayetteville.nc.us
+Moreno Valley, California,209050,193365,+8.11,51.27,0.2,1631.0,http://www.moreno-valley.ca.us
+Rochester, New York,206284,210565,−2.03,35.78,1.36,505.0,https://www.cityofrochester.gov
+Glendale, California,201361,191719,+5.03,30.43,0.13,522.0,http://glendaleca.gov
+Huntington Beach, California,200641,189992,+5.60,26.94,5.19,39.0,http://huntingtonbeachca.gov
+Salt Lake City, Utah,200591,186440,+7.59,109.1,1.3,4226.0,http://www.slcgov.com
+Grand Rapids, Michigan,200217,188040,+6.48,44.43,0.88,640.0,http://www.grcity.us/
+Amarillo, Texas,199924,190695,+4.84,89.8,0.5,3605.0,http://www.amarillo.gov
+Yonkers, New York,199663,195976,+1.88,18.01,2.28,82.0,http://www.yonkersny.gov/
+Aurora, Illinois,199602,197899,+0.86,44.89,0.88,718.0,http://www.aurora-il.org
+Montgomery, Alabama,198218,205764,−3.67,159.79,2.39,240.0,http://montgomeryal.gov
+Akron, Ohio,198006,199110,−0.55,62.03,0.34,1004.0,http://akronohio.gov
+Little Rock, Arkansas,197881,193524,+2.25,119.22,2.8,335.0,http://www.littlerock.gov
+Huntsville, Alabama,197318,180105,+9.56,213.36,1.34,600.0,https://www.huntsvilleal.gov/
+Augusta, Georgia,196939,195844,+0.56,302.1,4.3,136.0,http://www.augustaga.gov
+Port St. Lucie, Florida,195248,164603,+18.62,118.89,1.62,16.0,https://www.cityofpsl.com/
+Grand Prairie, Texas,194614,175396,+10.96,72.11,8.99,515.0,https://www.gptx.org
+Columbus, Georgia,194160,189885,+2.25,216.1,4.7,243.0,http://www.columbusga.gov/
+Tallahassee, Florida,193551,181376,+6.71,100.42,3.21,203.0,http://www.talgov.com
+Overland Park, Kansas,192536,173372,+11.05,74.84,0.53,1086.0,http://www.opkansas.org
+Tempe, Arizona,192364,161719,+18.95,39.97,0.26,1140.0,http://www.tempe.gov
+McKinney, Texas,191645,131117,+46.16,62.2,0.7,630.0,http://www.mckinneytexas.org
+Mobile, Alabama,189572,195111,−2.84,139.4,40.66,10.0,http://www.cityofmobile.org/
+Cape Coral, Florida,189343,154305,+22.71,105.77,13.42,5.0,http://www.capecoral.net
+Shreveport, Louisiana,188987,199311,−5.18,107.14,15.21,154.0,http://www.shreveportla.gov
+Frisco, Texas,188170,116989,+60.84,61.8,0.6,774.0,http://www.friscotexas.gov
+Knoxville, Tennessee,187500,178874,+4.82,98.5,5.6,886.0,http://www.knoxvilletn.gov
+Worcester, Massachusetts,185877,181045,+2.67,37.6,1.0,480.0,http://www.worcesterma.gov
+Brownsville, Texas,183392,175023,+4.78,81.53,3.34,33.0,http://www.cob.us
+Vancouver, Washington,183012,161791,+13.12,48.69,3.7,171.0,http://www.cityofvancouver.us/
+Fort Lauderdale, Florida,182595,165521,+10.32,34.62,1.69,9.0,http://www.fortlauderdale.gov
+Sioux Falls, South Dakota,181883,153888,+18.19,72.96,0.51,1470.0,http://www.SiouxFalls.org
+Ontario, California,181107,163924,+10.48,49.93,0.06,1004.0,http://www.ontarioca.gov/
+Chattanooga, Tennessee,180557,167674,+7.68,137.1,7.4,676.0,http://www.chattanooga.gov/
+Providence, Rhode Island,179335,178042,+0.73,18.53,2.32,75.46,http://www.providenceri.com
+Newport News, Virginia,178626,180719,−1.16,69.12,50.55,15.0,http://www.nnva.gov
+Rancho Cucamonga, California,177751,165269,+7.55,39.99,0.01,1207.0,http://www.cityofrc.us
+Santa Rosa, California,177586,167815,+5.82,41.29,0.2,164.0,http://ci.santa-rosa.ca.us
+Oceanside, California,176080,167086,+5.38,41.25,0.92,66.0,http://www.ci.oceanside.ca.us
+Salem, Oregon,173442,154637,+12.16,47.9,0.55,154.0,http://cityofsalem.net
+Elk Grove, California,172886,153015,+12.99,42.2,0.05,46.0,http://elkgrovecity.org
+Garden Grove, California,172646,170883,+1.03,17.96,0.02,89.0,http://www.ggcity.org
+Pembroke Pines, Florida,172374,154019,+11.92,33.03,1.94,7.0,http://www.ppines.com/
+Peoria, Arizona,172259,154065,+11.81,175.68,3.42,1142.0,http://www.peoriaaz.gov/
+Eugene, Oregon,171245,156185,+9.64,43.72,0.02,430.0,http://www.eugene-or.gov/
+Corona, California,168819,152374,+10.79,39.47,0.08,679.0,http://www.discovercorona.com/
+Cary, North Carolina,168160,135234,+24.35,58.33,1.09,495.0,https://www.townofcary.org
+Springfield, Missouri,168122,159498,+5.41,81.72,0.59,1299.0,http://www.springfieldmo.gov/
+Fort Collins, Colorado,167830,143986,+16.56,55.82,1.23,5003.0,http://fcgov.com
+Jackson, Mississippi,164422,173514,−5.24,111.07,2.17,279.0,http://www.jacksonms.gov
+Alexandria, Virginia,160530,139966,+14.69,14.93,0.41,39.0,http://www.alexandriava.gov
+Hayward, California,159620,144186,+10.70,45.54,18.29,105.0,http://www.hayward-ca.gov
+Lancaster, California,159053,156633,+1.55,94.3,0.26,2359.0,http://www.cityoflancasterca.org
+Lakewood, Colorado,156798,142980,+9.66,42.87,1.18,5518.0,http://www.ci.lakewood.co.us/
+Clarksville, Tennessee,156794,132929,+17.95,94.9,0.7,476.0,http://www.cityofclarksville.com/
+Palmdale, California,156667,152750,+2.56,105.97,0.24,2657.0,http://www.cityofpalmdale.org
+Salinas, California,156259,150441,+3.87,23.61,0.04,52.0,http://www.cityofsalinas.org
+Springfield, Massachusetts,155032,153060,+1.29,31.9,1.2,70.0,http://www.springfield-ma.gov
+Hollywood, Florida,154823,140768,+9.98,27.27,3.45,9.0,http://www.hollywoodfl.org/
+Pasadena, Texas,153219,149043,+2.80,44.2,0.4,30.0,http://www.ci.pasadena.tx.us/
+Sunnyvale, California,153185,140081,+9.35,21.98,0.7,125.0,http://sunnyvale.ca.gov
+Macon, Georgia,153095,91351,+67.59,249.81,1.24,380.6,http://maconbibb.us/
+Kansas City, Kansas,152958,145786,+4.92,124.81,3.57,869.0,http://wycokck.org
+Pomona, California,152361,149058,+2.22,22.95,0.01,850.0,http://www.ci.pomona.ca.us
+Escondido, California,152213,143911,+5.77,37.07,0.18,646.0,http://www.escondido.org
+Killeen, Texas,149103,127921,+16.56,53.6,0.7,890.0,http://www.killeentexas.gov
+Naperville, Illinois,148304,141853,+4.55,38.67,0.57,702.0,http://www.naperville.il.us
+Joliet, Illinois,148099,147433,+0.45,64.43,0.66,614.0,http://www.cityofjoliet.info/
+Bellevue, Washington,147599,122363,+20.62,33.46,0.25,85.0,http://www.bellevuewa.gov/
+Rockford, Illinois,146526,152871,−4.15,63.47,1.01,728.0,https://rockfordil.gov/
+Savannah, Georgia,145862,136286,+7.03,103.1,5.6,49.0,http://www.savannahga.gov/
+Paterson, New Jersey,145627,146199,−0.39,8.43,0.28,112.0,http://www.patersonnj.gov
+Torrance, California,145182,145438,−0.18,20.48,0.07,89.0,http://www.torranceca.gov
+Bridgeport, Connecticut,144900,144229,+0.47,16.0,3.4,3.0,http://bridgeportct.gov/
+McAllen, Texas,143433,129877,+10.44,48.3,0.3,121.4,http://www.mcallen.net
+Mesquite, Texas,142816,139824,+2.14,46.0,0.2,495.0,http://cityofmesquite.com
+Syracuse, New York,142749,145170,−1.67,25.05,0.56,380.0,http://www.syrgov.net
+Midland, Texas,142344,111147,+28.07,71.3,0.2,2782.0,http://www.midlandtexas.gov
+Pasadena, California,141371,137122,+3.10,22.98,0.15,863.0,http://www.cityofpasadena.net
+Murfreesboro, Tennessee,141344,108755,+29.97,58.32,0.15,610.0,http://www.murfreesborotn.gov
+Miramar, Florida,140823,122041,+15.39,29.38,1.9,9.0,http://www.miramarfl.gov
+Dayton, Ohio,140640,141527,−0.63,55.65,0.85,738.0,http://daytonohio.gov
+Fullerton, California,139640,135161,+3.31,22.43,0.01,164.0,http://www.ci.fullerton.ca.us
+Olathe, Kansas,139605,125872,+10.91,59.66,0.76,1037.0,http://www.olatheks.org/
+Orange, California,139484,136416,+2.25,25.36,0.44,190.0,http://www.cityoforange.org
+Thornton, Colorado,139436,118772,+17.40,35.81,1.07,5351.0,http://www.cityofthornton.net/
+Roseville, California,139117,118788,+17.11,42.99,0.0,164.0,http://www.roseville.ca.us
+Denton, Texas,138541,113383,+22.19,87.95,1.36,642.0,http://www.cityofdenton.com/
+Waco, Texas,138183,124805,+10.72,84.2,11.3,470.0,http://www.waco-texas.com/
+Surprise, Arizona,138161,117517,+17.57,107.85,0.11,1175.0,http://www.surpriseaz.gov
+Carrollton, Texas,136879,119097,+14.93,36.3,0.8,528.0,http://www.cityofcarrollton.com
+West Valley City, Utah,136401,129480,+5.35,35.4,0.1,4304.0,http://www.wvc-ut.gov/
+Charleston, South Carolina,136208,120083,+13.43,109.0,18.5,20.0,http://www.charleston-sc.gov
+Warren, Michigan,134587,134056,+0.40,34.36,0.07,627.0,http://www.cityofwarren.org/
+Hampton, Virginia,134313,137436,−2.27,51.41,84.85,10.0,http://www.hampton.gov
+Gainesville, Florida,133857,124354,+7.64,62.32,1.17,151.0,http://www.cityofgainesville.org
+Visalia, California,133800,124442,+7.52,37.47,0.02,331.0,http://www.ci.visalia.ca.us
+Coral Springs, Florida,133507,121096,+10.25,22.86,1.12,13.0,http://www.coralsprings.org/
+Columbia, South Carolina,133451,129272,+3.23,132.2,2.7,292.0,http://www.columbiasc.net
+Cedar Rapids, Iowa,133174,126326,+5.42,70.8,1.27,810.0,http://www.cedar-rapids.org/
+Sterling Heights, Michigan,132964,129699,+2.52,36.43,0.29,614.0,http://www.sterling-heights.net/
+New Haven, Connecticut,130418,129779,+0.49,18.7,1.4,59.0,http://www.newhavenct.gov
+Stamford, Connecticut,129775,122643,+5.82,37.7,14.3,23.0,http://www.stamfordct.gov/
+Concord, California,129688,122067,+6.24,30.54,0.0,75.0,http://www.ci.concord.ca.us
+Kent, Washington,129618,92411,+40.26,33.75,0.67,43.0,http://www.kentwa.gov/
+Santa Clara, California,129488,116468,+11.18,18.41,0.0,72.0,http://SantaClaraCA.gov
+Elizabeth, New Jersey,128885,124969,+3.13,12.32,1.15,16.0,http://www.elizabethnj.org/
+Round Rock, Texas,128739,99887,+28.88,35.6,0.3,735.0,http://www.roundrocktexas.gov/
+Thousand Oaks, California,127690,126683,+0.79,55.18,0.15,886.0,http://www.toaks.org
+Lafayette, Louisiana,126143,120623,+4.58,53.81,0.1,36.0,https://www.lafayettetravel.com/
+Athens, Georgia,125964,115452,+9.11,117.8,0.5,636.0,http://www.athensclarkecounty.com/
+Topeka, Kansas,125904,127473,−1.23,60.17,1.3,945.0,http://www.topeka.org
+Simi Valley, California,125851,124237,+1.30,41.48,0.77,768.0,http://www.simivalley.org
+Fargo,  North Dakota,124844,105549,+18.28,48.82,0.0,904.0,http://www.cityoffargo.com
+Norman, Oklahoma,123471,110925,+11.31,178.8,10.7,1171.0,http://www.ci.norman.ok.us
+Columbia, Missouri,123180,108500,+13.53,63.08,0.42,758.0,http://www.como.gov
+Abilene, Texas,122999,117063,+5.07,106.8,5.4,1719.0,http://abilenetx.com
+Wilmington, North Carolina,122607,106476,+15.15,41.0,0.5,30.0,http://www.wilmingtonnc.gov/
+Hartford, Connecticut,122587,124775,−1.75,17.4,0.7,59.0,http://www.hartford.gov
+Victorville, California,122312,115903,+5.53,73.33,0.56,2726.0,http://www.victorvilleca.gov/
+Pearland, Texas,122149,91252,+33.86,48.33,0.17,49.0,http://www.cityofpearland.com
+Vallejo, California,121913,115942,+5.15,30.67,18.87,69.0,http://www.ci.vallejo.ca.us
+Ann Arbor, Michigan,121890,113934,+6.98,27.9,0.87,840.0,http://www.a2gov.org/
+Berkeley, California,121643,112580,+8.05,10.47,7.23,171.0,http://www.cityofberkeley.info
+Allentown, Pennsylvania,121433,118032,+2.88,17.55,0.48,338.0,http://www.allentownpa.gov/
+Richardson, Texas,120981,99223,+21.93,28.6,0.08,630.0,https://www.cor.net
+Odessa, Texas,120568,99940,+20.64,43.9,0.1,2900.0,http://www.odessa-tx.gov/
+Arvada, Colorado,120492,106433,+13.21,38.67,0.72,5344.0,http://arvada.org
+Cambridge, Massachusetts,118977,105162,+13.14,6.43,0.7,40.0,http://cambridgema.gov
+Sugar Land, Texas,118600,78817,+50.48,32.4,1.6,100.0,http://www.sugarlandtx.gov/
+Beaumont, Texas,118428,118296,+0.11,82.8,3.1,16.0,http://beaumonttexas.gov
+Lansing, Michigan,118427,114297,+3.61,39.17,0.64,860.0,http://www.lansingmi.gov
+Evansville, Indiana,117963,117429,+0.45,47.35,0.49,387.0,http://www.evansvillegov.org
+Rochester, Minnesota,116961,106769,+9.55,55.2,0.29,1030.0,http://www.rochestermn.gov
+Independence, Missouri,116925,116830,+0.08,77.57,0.68,1033.0,http://www.indepmo.org
+Fairfield, California,116884,105321,+10.98,40.92,0.27,13.0,http://www.fairfield.ca.gov
+Provo, Utah,116702,112488,+3.75,41.7,2.5,4551.0,http://www.provo.org/
+Clearwater, Florida,116478,107685,+8.17,25.99,9.83,30.0,http://www.myclearwater.com
+College Station, Texas,116218,93857,+23.82,49.5,0.2,338.0,http://www.cstx.gov
+West Jordan, Utah,116046,103712,+11.89,30.9,0.0,4373.0,http://www.westjordan.utah.gov/
+Carlsbad, California,115877,105328,+10.02,37.74,1.38,52.0,http://www.carlsbadca.gov
+El Monte, California,115586,113475,+1.86,9.56,0.09,299.0,http://ci.el-monte.ca.us
+Murrieta, California,114985,103466,+11.13,33.6,0.04,1175.0,http://www.murrieta.org
+Temecula, California,114742,100097,+14.63,37.27,0.01,1017.0,http://temeculaca.gov
+Springfield, Illinois,114694,116250,−1.34,60.09,6.28,558.0,http://www.springfield.il.us
+Palm Bay, Florida,114194,103190,+10.66,65.72,3.14,19.0,http://www.palmbayflorida.org/
+Costa Mesa, California,113615,109960,+3.32,15.72,0.08,98.0,http://www.costamesaca.gov
+Westminster, Colorado,113479,106114,+6.94,31.73,2.32,5384.0,http://www.cityofwestminster.us
+North Charleston, South Carolina,113237,97471,+16.18,73.2,3.5,25.0,http://www.northcharleston.org
+Miami Gardens, Florida,113069,107167,+5.51,18.24,0.78,7.0,http://www.miamigardens-fl.gov/
+Manchester, New Hampshire,112525,109565,+2.70,33.1,1.9,210.0,http://www.manchesternh.gov
+High Point, North Carolina,112316,104371,+7.61,53.8,1.7,938.0,http://www.highpointnc.gov
+Downey, California,112269,111772,+0.44,12.41,0.16,118.0,http://www.downeyca.org
+Clovis, California,112022,95631,+17.14,24.4,0.0,361.0,http://www.ci.clovis.ca.us
+Pompano Beach, Florida,111954,99845,+12.13,24.04,0.67,13.0,http://www.pompanobeachfl.gov
+Pueblo, Colorado,111750,106595,+4.84,53.59,0.79,4692.0,http://www.pueblo.us/
+Elgin, Illinois,111683,108188,+3.23,37.45,0.49,817.0,http://cityofelgin.org
+Lowell, Massachusetts,111670,106519,+4.84,13.8,0.8,102.0,http://www.lowellma.gov/
+Antioch, California,111535,102372,+8.95,29.35,0.78,43.0,http://www.ci.antioch.ca.us
+West Palm Beach, Florida,111398,99919,+11.49,55.13,2.56,13.0,http://wpb.org/
+Peoria, Illinois,111388,115007,−3.15,48.23,2.22,509.0,http://www.peoriagov.org
+Ventura, California,111128,106433,+4.41,21.82,10.43,36.0,http://cityofventura.net
+Centennial, Colorado,110831,100377,+10.41,29.55,0.15,5830.0,http://www.centennialco.gov/
+Lakeland, Florida,110516,97422,+13.44,65.91,9.02,197.0,http://www.lakelandgov.net/
+Gresham, Oregon,110158,105594,+4.32,23.2,0.23,325.0,http://www.greshamoregon.gov/
+Richmond, California,110146,103701,+6.21,30.05,22.46,46.0,http://www.ci.richmond.ca.us
+Billings, Montana,109550,104170,+5.16,43.41,0.11,3123.0,http://www.cityofbillings.net/
+Inglewood, California,109419,109673,−0.23,9.07,0.03,131.0,http://www.cityofinglewood.org
+Broken Arrow, Oklahoma,109171,98850,+10.44,45.0,0.6,755.0,http://www.brokenarrowok.gov
+Sandy Springs, Georgia,108797,93853,+15.92,37.6,0.9,1093.0,http://www.sandyspringsga.gov
+Hillsboro, Oregon,108389,91611,+18.31,24.24,0.01,194.0,http://www.hillsboro-oregon.gov/
+Waterbury, Connecticut,108093,110366,−2.06,28.5,0.4,270.0,http://www.waterburyct.org
+Santa Maria, California,107408,99553,+7.89,22.78,0.64,217.0,http://www.ci.santa-maria.ca.us
+Boulder, Colorado,107353,97385,+10.24,24.84,1.01,5328.0,http://bouldercolorado.gov
+Greeley, Colorado,107348,92889,+15.57,47.79,0.12,4675.0,http://greeleygov.com
+Daly City, California,107008,101123,+5.82,7.64,0.0,344.0,http://www.dalycity.org
+Meridian, Idaho,106804,75092,+42.23,29.72,0.06,2605.0,http://www.meridiancity.org
+Lewisville, Texas,106586,95290,+11.85,36.4,6.07,525.0,http://www.cityoflewisville.com
+Davie, Florida,106558,91992,+15.83,34.9,0.83,9.0,http://www.davie-fl.gov
+West Covina, California,106311,106098,+0.20,16.04,0.05,384.0,http://www.westcovina.org
+League City, Texas,106244,83560,+27.15,51.3,1.7,20.0,http://www.leaguecitytx.gov/
+Tyler, Texas,105729,96900,+9.11,54.2,0.1,544.0,http://www.cityoftyler.org
+Norwalk, California,105120,105549,−0.41,9.71,0.04,92.0,http://www.norwalk.org
+San Mateo, California,105025,97207,+8.04,12.13,3.75,46.0,http://www.cityofsanmateo.org
+Green Bay, Wisconsin,104879,104057,+0.79,45.48,10.28,581.0,http://greenbaywi.gov
+Wichita Falls, Texas,104576,104553,+0.02,70.66,0.04,948.0,http://www.wichitafallstx.gov
+Sparks, Nevada,104246,90264,+15.49,35.8,0.2,4413.0,http://cityofsparks.us
+Lakewood, New Jersey,104157,92843,+12.19,24.58,0.41,49.0,http://www.lakewoodnj.gov/
+Burbank, California,103695,103340,+0.34,17.35,0.04,607.0,http://www.burbankca.gov
+Rialto, California,103440,99171,+4.30,22.33,0.01,1257.0,http://www.rialtoca.gov
+El Cajon, California,103241,99478,+3.78,14.48,0.0,433.0,http://www.ci.el-cajon.ca.us
+Las Cruces, New Mexico,102926,97618,+5.44,76.5,0.2,3900.0,http://www.las-cruces.org
+Renton, Washington,102153,90927,+12.35,23.43,0.18,46.0,http://www.rentonwa.gov/
+Davenport, Iowa,102085,99685,+2.41,62.95,2.13,580.0,http://www.cityofdavenportiowa.com/
+South Bend, Indiana,101860,101168,+0.68,41.4,0.42,692.0,http://www.southbendin.gov
+Vista, California,101224,93834,+7.88,18.68,0.0,325.0,http://www.cityofvista.com
+Tuscaloosa, Alabama,101113,90468,+11.77,61.64,10.06,222.0,http://www.tuscaloosa.com/
+Clinton, Michigan,100800,96796,+4.14,28.2,0.04,876.0,https://clintontownship.com/index.html
+Edison, New Jersey,100693,99967,+0.73,29.94,0.7,39.0,http://www.edisonnj.org/
+Woodbridge, New Jersey,100450,99585,+0.87,23.21,1.29,59.06,http://www.twp.woodbridge.nj.us/
+San Angelo, Texas,100215,93200,+7.53,55.9,2.3,1844.0,http://www.cosatx.us/
+Kenosha, Wisconsin,100164,99218,+0.95,27.91,0.09,604.0,http://www.kenosha.org/
+Vacaville, California,100154,92428,+8.36,28.81,0.21,174.0,http://www.cityofvacaville.com
