@@ -8,3 +8,5 @@ Part 1: How to web scrape the data found in that site and also additional data f
 
 Part 2: Cleaning the collected data and storing it in csv formatt.
   * Load the Dataset.csv file generated in part 1 for running this.
+
+The final output of part 2 is a csv file (finalDataset.csv) that is ready to be uploaded to a BigQuery table.
